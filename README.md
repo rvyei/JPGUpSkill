@@ -19,9 +19,13 @@ As a first-year Information Technology student, having centralize, structured, a
 ## Tech Stack
 
 |Front-End|Back-End|Incharge|
-|————————-|———————-|———————-|
+|---------|--------|--------|
 |HTML|-|Karlynn Lorah|
 |CSS|-|Karlynn Lorah|
 
-
+```js
+let x = 10;
+let y = 30;
+let slope = y / x;
+```
 
