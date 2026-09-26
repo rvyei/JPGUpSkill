@@ -1,6 +1,7 @@
 # Student Portfolio Project
 
-## Project Description 
+## Project Description
+The Student Portfolio 
 
 ### Introduction
 The project is a personal static portfolio web application developed by a first-year student Karlynn Lorah A. Ballenas. It is built as a foundation for showcasing academic progress in Information Technology, it highlights core programming capabilities, web layout design skills, and foundational web development concepts. 
@@ -20,8 +21,8 @@ As a first-year Information Technology student, having centralize, structured, a
 
 |Front-End|Back-End|Incharge|
 |---------|--------|--------|
-|HTML|-|Karlynn Lorah|
-|CSS|-|Karlynn Lorah|
+|HTML|-|Karlynn Lorah A. Ballenas|
+|CSS|-|Karlynn Lorah A. Ballenas|
 
 ```js
 let x = 10;
